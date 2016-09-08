@@ -1,0 +1,1 @@
+The language used in the project is c++ with scanf borrowed from the C library
